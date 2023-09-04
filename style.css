@@ -1,0 +1,80 @@
+#menubar ul {
+  text-align: center;
+  font-weight: bolder;
+  font-size: 15px;
+  margin: 20px;
+}
+#menubar ul li {
+  display: inline;
+  list-style-type: none;
+  padding: 0px 20px;
+}
+#menubar ul li a {
+  text-decoration-line: none;
+  color: black;
+}
+#menubar ul li a:hover {
+  color: red;
+}
+h1 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+h4 {
+  text-align: center;
+}
+#text1 {
+  text-align: center;
+}
+body {
+  background-image: url(./media/pt4.png);
+}
+.profilejpg {
+  text-align: center;
+}
+#list {
+  width: 320px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.profilejpg img {
+  height: 200px;
+}
+
+.albumtext1 {
+  text-align: center;
+  font-size: 15px;
+}
+.albumtext2 {
+  text-align: center;
+  font-size: 13px;
+}
+.allbum1 {
+  height: 200px;
+  width: 200px;
+  overflow: auto;
+  margin: 7px;
+  float: left;
+}
+.allbum1 img {
+  height: 100%;
+  width: 100%;
+  overflow: auto;
+}
+.allbum1:hover {
+  transform: scale(2);
+  transition: all 0.1s linear;
+}
+.comment {
+  text-align: center;
+}
+#source2 {
+  width: 220px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.source1 {
+  text-align: center;
+}
